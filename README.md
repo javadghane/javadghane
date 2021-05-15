@@ -5,15 +5,16 @@
 
 
 <br />
-̿̿ ̿̿ ̿̿ ̿'̿'\̵͇̿̿\з= ( ▀ ͜͞ʖ▀) =ε/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿
 <br />
 <br />
 
 
 
-### 🤝🏻 Connect with me:
+### Connect with me:
 
 [<img align="left" width="22px" src="https://seeklogo.com/images/L/linkedin-new-2020-logo-E14A5D55ED-seeklogo.com.png" />](https://www.linkedin.com/in/javadroid)
+
+̿̿ ̿̿ ̿̿ ̿'̿'\̵͇̿̿\з= ( ▀ ͜͞ʖ▀) =ε/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿
 [<img align="left"  width="22px" src="https://seeklogo.com/images/T/twitter-icon-circle-blue-logo-94339974C6-seeklogo.com.png" />](https://twitter.com/jghane)
 <br />
 

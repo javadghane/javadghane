@@ -17,5 +17,5 @@
 
 <a href="https://github.com/javadghane/">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javadghane)]
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javadghane)](https://github.com/anuraghazra/github-readme-stats)
 </a>

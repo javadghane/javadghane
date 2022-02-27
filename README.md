@@ -17,5 +17,5 @@
 
 <a href="https://github.com/javadghane/">
   
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+   ![javadghane's GitHub stats](https://github-readme-stats.vercel.app/api?username=javadghane&count_private=true)
 </a>

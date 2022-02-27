@@ -17,5 +17,5 @@
 
 <a href="https://github.com/javadghane/">
   
-   ![javadghane's GitHub stats](https://github-readme-stats.vercel.app/api?username=javadghane&count_private=true)
+   [![javadghane's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JavaDroid)](https://github.com/anuraghazra/github-readme-stats)
 </a>

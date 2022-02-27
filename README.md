@@ -16,5 +16,6 @@
 
 
 <a href="https://github.com/javadghane/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javadghane&langs_count=3" />
+  
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 </a>

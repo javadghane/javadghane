@@ -15,9 +15,3 @@
 <br />
 
 
-[![wakatime](https://wakatime.com/badge/user/28528e07-5448-4896-89d4-ea4e9f00976e.svg)](https://wakatime.com/@28528e07-5448-4896-89d4-ea4e9f00976e)
-
-<a href="https://github.com/javadghane/">
-  
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javadghane&langs_count=3" />
-</a>
